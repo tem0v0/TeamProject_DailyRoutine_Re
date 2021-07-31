@@ -1,0 +1,183 @@
+body {
+  overflow-x: hidden;
+}
+
+.overview__title {
+  width: 452px;
+}
+
+.overview__content {
+  width: 1018px;
+  margin-top: 100px;
+  margin-left: 350px;
+  margin-bottom: 250px;
+}
+
+.project-goal__title {
+  width: 472px;
+  margin-left: auto;
+
+}
+
+.project-goal__content {
+  width: 1295px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  margin-bottom: 250px;
+}
+
+.persona__title {
+  width: 473px;
+}
+
+.persona__content {
+  width: 1676px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  margin-bottom: 250px;
+}
+
+.design-system__title {
+  width: 474px;
+  margin-left: auto;
+}
+
+.design-system__logo {
+  width: 1228px;
+  margin-top: 100px;
+  margin-left: 267px;
+  margin-bottom: 100px;
+}
+
+.design-system__color {
+  width: 680px;
+  margin-left: 246px;
+  margin-right: 100px;
+  display: inline-block;
+}
+
+.design-system__font {
+  width: 653px;
+  padding-bottom: 46px;
+  display: inline-block;
+}
+
+.wireframe__title {
+  width: 471px;
+  margin-top: 250px;
+}
+
+.wireframe__content {
+  margin-top: 100px;
+  margin-bottom: 250px;
+}
+
+.appdesign {
+  position: relative;
+}
+
+.appdesign__title {
+  width: 472px;
+  margin-left: auto;
+  margin-bottom: 200px;
+}
+
+.appdesign__splash {
+  margin-left: 200px;
+  margin-bottom: 230px;
+}
+
+.appdesign__home {
+  width: 1763px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 230px;
+}
+
+.appdesign__bookmark {
+  width: 1609px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 230px;
+}
+
+.appdesign__group {
+  width: 922px;
+  margin-left: 230px;
+  margin-bottom: 230px;
+}
+
+.appdesign__registration {
+  width: 1624px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 230px;
+}
+
+.appdesign__memo {
+  position:relative;
+  height: 1380px;
+  margin-bottom: 230px;
+}
+
+.appdesign__memo-1 {
+  width: 807px;
+  margin-left: 200px;
+}
+
+.appdesign__memo-2 {
+  width: 1348px;
+  position:absolute;
+  top:600px;
+  left:auto;
+  right: 200px;
+}
+
+.appdesign__character {
+  width: 1490px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 230px;
+}
+
+.appdesign__set {
+  width: 1424px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 230px;
+}
+
+.appdesign__popup {
+  width: 1525px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 490px;
+}
+
+.appdesign__bubble {
+  width: 2656px;
+  position: absolute;
+  top: 390px;
+  left:auto;
+  right: -510px;
+  z-index: -1;
+  animation-name: bubble;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+}
+
+@keyframes bubble {
+  0% {
+    top: 390px;
+  }
+
+  50% {
+    top: 490px;
+  }
+
+  100% {
+    top: 390px;
+  }
+}
