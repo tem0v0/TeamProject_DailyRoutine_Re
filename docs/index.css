@@ -9,8 +9,9 @@ body {
 .overview__content {
   width: 1018px;
   margin-top: 100px;
-  margin-left: 350px;
+  margin-left: 550px; /* 350px */
   margin-bottom: 250px;
+  opacity: 0; /* 1 */
 }
 
 .project-goal__title {
@@ -21,10 +22,10 @@ body {
 
 .project-goal__content {
   width: 1295px;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 112px; /* 312px */
   margin-top: 100px;
   margin-bottom: 250px;
+  opacity: 0; /* 1 */
 }
 
 .persona__title {
@@ -37,6 +38,7 @@ body {
   margin-right: auto;
   margin-top: 100px;
   margin-bottom: 250px;
+  opacity: 0; /* 1 */
 }
 
 .design-system__title {
@@ -49,19 +51,23 @@ body {
   margin-top: 100px;
   margin-left: 267px;
   margin-bottom: 100px;
+  opacity: 0; /* 1 */
 }
 
 .design-system__color {
   width: 680px;
-  margin-left: 246px;
+  margin-left: 146px; /* 246px */
   margin-right: 100px;
   display: inline-block;
+  opacity: 0; /* 1 */
 }
 
 .design-system__font {
   width: 653px;
   padding-bottom: 46px;
   display: inline-block;
+  opacity: 0; /* 1 */
+  margin-left: 175px;
 }
 
 .wireframe__title {
@@ -72,6 +78,7 @@ body {
 .wireframe__content {
   margin-top: 100px;
   margin-bottom: 250px;
+  opacity: 0; /* 1 */
 }
 
 .appdesign {
@@ -85,8 +92,9 @@ body {
 }
 
 .appdesign__splash {
-  margin-left: 200px;
+  margin-left: 400px; /* 200px */
   margin-bottom: 230px;
+  opacity: 0; /* 1 */
 }
 
 .appdesign__home {
@@ -94,19 +102,22 @@ body {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 230px;
+  opacity: 0; /* 1 */
 }
 
 .appdesign__bookmark {
   width: 1609px;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left:auto;
+  margin-right: 273px; /* 173px */
   margin-bottom: 230px;
+  opacity: 1; /* 1 */
 }
 
 .appdesign__group {
   width: 922px;
-  margin-left: 230px;
+  margin-left: 430px; /* 230px */
   margin-bottom: 230px;
+  opacity: 0; /* 1 */
 }
 
 .appdesign__registration {
@@ -114,6 +125,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 230px;
+  opacity: 0; /* 1 */
 }
 
 .appdesign__memo {
@@ -124,7 +136,8 @@ body {
 
 .appdesign__memo-1 {
   width: 807px;
-  margin-left: 200px;
+  margin-left: 0; /* 200px */
+  opacity: 0; /* 1 */
 }
 
 .appdesign__memo-2 {
@@ -132,7 +145,8 @@ body {
   position:absolute;
   top:600px;
   left:auto;
-  right: 200px;
+  right: 0; /* 200px */
+  opacity: 0; /* 1 */
 }
 
 .appdesign__character {
@@ -140,20 +154,22 @@ body {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 230px;
+  opacity: 0; /* 1 */
 }
 
 .appdesign__set {
   width: 1424px;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: 465px; /* 265px */
   margin-bottom: 230px;
+  opacity: 0; /* 1 */
 }
 
 .appdesign__popup {
   width: 1525px;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 414px; /* 214px */
   margin-bottom: 490px;
+  opacity: 0; /* 1 */
 }
 
 .appdesign__bubble {
