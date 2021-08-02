@@ -110,7 +110,7 @@ body {
   margin-left:auto;
   margin-right: 273px; /* 173px */
   margin-bottom: 230px;
-  opacity: 1; /* 1 */
+  opacity: 0; /* 1 */
 }
 
 .appdesign__group {
