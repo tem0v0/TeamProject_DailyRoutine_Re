@@ -4,7 +4,7 @@ gsap.to('.overview__content', {
   duration:2,
   scrollTrigger:{
     trigger:'.overview__content',
-    markers:true,
+    markers:false,
     start:'0% 50%',
     end:'100% 0',
   },
@@ -16,7 +16,7 @@ gsap.to('.project-goal__content', {
   duration:2,
   scrollTrigger:{
     trigger:'.project-goal__content',
-    markers:true,
+    markers:false,
     start:'0% 50%',
     end:'100% 0',
   },
@@ -27,7 +27,7 @@ gsap.to('.persona__content', {
   duration:2,
   scrollTrigger:{
     trigger:'.persona__content',
-    markers:true,
+    markers:false,
     start:'0% 50%',
     end:'100% 0',
   },
@@ -38,7 +38,7 @@ gsap.to('.design-system__logo', {
   duration:2,
   scrollTrigger:{
     trigger:'.design-system__logo',
-    markers:true,
+    markers:false,
     start:'0% 50%',
     end:'100% 0',
   },
@@ -51,7 +51,7 @@ gsap.to('.design-system__color', {
   delay:0.5,
   scrollTrigger:{
     trigger:'.design-system__logo',
-    markers:true,
+    markers:false,
     start:'0% 50%',
     end:'100% 0',
   },
@@ -64,7 +64,7 @@ gsap.to('.design-system__font', {
   delay:0.5,
   scrollTrigger:{
     trigger:'.design-system__logo',
-    markers:true,
+    markers:false,
     start:'0% 50%',
     end:'100% 0',
   },
@@ -75,7 +75,7 @@ gsap.to('.wireframe__content', {
   duration:2,
   scrollTrigger:{
     trigger:'.wireframe__content',
-    markers:true,
+    markers:false,
     start:'0% 50%',
     end:'100% 0',
   },
@@ -87,7 +87,7 @@ gsap.to('.appdesign__splash', {
   duration:2,
   scrollTrigger:{
     trigger:'.appdesign__splash',
-    markers:true,
+    markers:false,
     start:'0% 50%',
     end:'100% 0',
   },
@@ -98,7 +98,7 @@ gsap.to('.appdesign__home', {
   duration:2,
   scrollTrigger:{
     trigger:'.appdesign__home',
-    markers:true,
+    markers:false,
     start:'0% 50%',
     end:'100% 0',
   },
@@ -110,7 +110,7 @@ gsap.to('.appdesign__bookmark', {
   duration:2,
   scrollTrigger:{
     trigger:'.appdesign__bookmark',
-    markers:true,
+    markers:false,
     start:'0% 50%',
     end:'100% 0',
   },
@@ -122,7 +122,7 @@ gsap.to('.appdesign__group', {
   duration:2,
   scrollTrigger:{
     trigger:'.appdesign__group',
-    markers:true,
+    markers:false,
     start:'0% 50%',
     end:'100% 0',
   },
@@ -133,7 +133,7 @@ gsap.to('.appdesign__registration', {
   duration:2,
   scrollTrigger:{
     trigger:'.appdesign__registration',
-    markers:true,
+    markers:false,
     start:'0% 50%',
     end:'100% 0',
   },
@@ -145,7 +145,7 @@ gsap.to('.appdesign__memo-1', {
   duration:2,
   scrollTrigger:{
     trigger:'.appdesign__memo-1',
-    markers:true,
+    markers:false,
     start:'0% 50%',
     end:'100% 0',
   },
@@ -157,7 +157,7 @@ gsap.to('.appdesign__memo-2', {
   duration:2,
   scrollTrigger:{
     trigger:'.appdesign__memo-2',
-    markers:true,
+    markers:false,
     start:'0% 50%',
     end:'100% 0',
   },
@@ -168,7 +168,7 @@ gsap.to('.appdesign__character', {
   duration:2,
   scrollTrigger:{
     trigger:'.appdesign__character',
-    markers:true,
+    markers:false,
     start:'0% 50%',
     end:'100% 0',
   },
@@ -180,7 +180,7 @@ gsap.to('.appdesign__set', {
   duration:2,
   scrollTrigger:{
     trigger:'.appdesign__set',
-    markers:true,
+    markers:false,
     start:'0% 50%',
     end:'100% 0',
   },
@@ -192,7 +192,7 @@ gsap.to('.appdesign__popup', {
   duration:2,
   scrollTrigger:{
     trigger:'.appdesign__popup',
-    markers:true,
+    markers:false,
     start:'0% 50%',
     end:'100% 0',
   },
